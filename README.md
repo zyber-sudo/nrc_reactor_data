@@ -21,13 +21,12 @@ nuclear reactors over the last 365 days. The provided Python module allows users
 
 1. This will clone the repository.
 
-`git clone https://github.com/zyber-sudo/nrc_reactor_data.git
-cd https://github.com/zyber-sudo/nrc_reactor_data.git`
+`git clone https://github.com/zyber-sudo/nrc_reactor_data.git`
+`cd https://github.com/zyber-sudo/nrc_reactor_data.git`
 
 2. This will set up the virtual environment.
 
-`python3 -m venv venv
-source venv/bin/activate`
+`python3 -m venv venv`
 
 3. This will install the proper packages.
 
