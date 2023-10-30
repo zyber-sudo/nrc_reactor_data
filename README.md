@@ -21,8 +21,8 @@ nuclear reactors over the last 365 days. The provided Python module allows users
 
 1. This will clone the repository.
 
-`git clone [repository_link]
-cd [repository_name]`
+`git clone https://github.com/zyber-sudo/nrc_reactor_data.git
+cd https://github.com/zyber-sudo/nrc_reactor_data.git`
 
 2. This will set up the virtual environment.
 
