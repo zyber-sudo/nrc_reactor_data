@@ -7,12 +7,13 @@ nuclear reactors over the last 365 days. The provided Python module allows users
 
 1. Retrieve all reactors.
 2. Get detailed information about a specific reactor.
-3. List all reactors that had an outage within a specified date range.
+3. List all reactors with an outage within a specified date range.
 4. Fetch the last known outage date of a reactor.
 
 ### Prerequisites:
 
 * Python3
+* pip3
 * Clickhouse Database (In this case hosted locally)
 
 ### Installation & Setup:
@@ -22,6 +23,7 @@ nuclear reactors over the last 365 days. The provided Python module allows users
 1. This will clone the repository.
 
 `git clone https://github.com/zyber-sudo/nrc_reactor_data.git`
+
 `cd https://github.com/zyber-sudo/nrc_reactor_data.git`
 
 2. This will set up the virtual environment.
@@ -39,7 +41,7 @@ nuclear reactors over the last 365 days. The provided Python module allows users
 
 ### Support:
 
-For any issues or improvements, please create an issue in the repository or contact the repository owner.
+If you have any issues or improvements, please create an issue in the repository or contact the repository owner.
 
 ### License:
 
