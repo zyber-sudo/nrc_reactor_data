@@ -1,0 +1,1 @@
+SELECT DISTINCT Unit FROM my_table mt ORDER BY Unit;

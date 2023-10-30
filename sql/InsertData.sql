@@ -1,0 +1,1 @@
+INSERT INTO my_table (ReportDt, Unit, Power) VALUES
